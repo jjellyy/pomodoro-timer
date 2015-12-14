@@ -15,6 +15,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "pomodoro.html",
+			"settings":
+			{
+				"buffer_size": 2209,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 774,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts.js",
+			"settings":
+			{
+				"buffer_size": 3817,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -40,6 +64,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Catherine/Desktop/Pomodoro Clock/scripts.js",
+		"/C/Users/Catherine/Desktop/Pomodoro Clock/pomodoro.js",
+		"/C/Users/Catherine/Desktop/Pomodoro Clock/pomodoro.css",
+		"/C/Users/Catherine/Desktop/Pomodoro Clock/pomodoro",
 		"/D/Downloads/Mass Effect Complete Collection Pack/Mass Effect/Mass Effect + 1.02 + Crack/CRACK 102/reloaded.nfo",
 		"/C/Users/Catherine/AppData/Local/Temp/Rar$DIa0.431/ps5.py",
 		"/D/Downloads/Mass Effect Complete Collection Pack/Mass Effect/Mass Effect DLC Pack/README.nfo",
@@ -98,8 +126,93 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "pomodoro.html",
+					"settings":
+					{
+						"buffer_size": 2209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2086,
+								2086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 828.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles.css",
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts.js",
+					"settings":
+					{
+						"buffer_size": 3817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3817,
+								3817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -159,6 +272,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 278.0,
 	"status_bar_visible": true
 }

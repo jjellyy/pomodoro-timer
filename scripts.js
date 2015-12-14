@@ -11,8 +11,8 @@ $("a").click(function(event) {
 
 $(document).ready(function(){
   $('body').flowtype({
-    minFont: 40,
-    maxFont: 60
+    minFont: 30,
+    minFont: 60
   });
 });
 
