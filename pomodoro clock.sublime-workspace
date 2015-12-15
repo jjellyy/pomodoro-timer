@@ -19,7 +19,7 @@
 			"file": "pomodoro.html",
 			"settings":
 			{
-				"buffer_size": 2209,
+				"buffer_size": 2294,
 				"line_ending": "Windows"
 			}
 		},
@@ -27,7 +27,7 @@
 			"file": "styles.css",
 			"settings":
 			{
-				"buffer_size": 774,
+				"buffer_size": 825,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,7 +35,7 @@
 			"file": "scripts.js",
 			"settings":
 			{
-				"buffer_size": 3817,
+				"buffer_size": 3818,
 				"line_ending": "Windows"
 			}
 		}
@@ -126,7 +126,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -134,15 +134,15 @@
 					"file": "pomodoro.html",
 					"settings":
 					{
-						"buffer_size": 2209,
+						"buffer_size": 2294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2086,
-								2086
+								265,
+								265
 							]
 						],
 						"settings":
@@ -152,7 +152,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 828.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -162,15 +162,15 @@
 					"file": "styles.css",
 					"settings":
 					{
-						"buffer_size": 774,
+						"buffer_size": 825,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								445,
-								445
+								446,
+								446
 							]
 						],
 						"settings":
@@ -180,7 +180,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 276.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -190,15 +190,15 @@
 					"file": "scripts.js",
 					"settings":
 					{
-						"buffer_size": 3817,
+						"buffer_size": 3818,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3817,
-								3817
+								251,
+								251
 							]
 						],
 						"settings":
@@ -208,7 +208,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3255.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
